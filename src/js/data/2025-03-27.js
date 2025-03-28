@@ -12,17 +12,17 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Mint Fantôme",
-    img: "SurAwkF",
+    img: "SurAwkF.png",
     opts: { mint: true }
   },
   {
     name: "Nimi Nightmare",
-    img: "CvS9sy2",
+    img: "CvS9sy2.png",
     opts: { }
   },
   {
     name: "Dooby",
-    img: "xJDpJhC",
+    img: "xJDpJhC.png",
     opts: { }
   }
 ];
